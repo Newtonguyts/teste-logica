@@ -19,7 +19,8 @@ O programa classifica um herói em diferentes níveis com base na experiência (
 
 - **JavaScript**: Linguagem utilizada para a implementação do código.
 - **VSCode**: Editor de códigos
-## Como Usar
+- 
+## Feito por
 
 1. Feito por Newton, para o projeto Classificador de Nível de Herói para a Formação Lógica de Programação da [DIO](https://web.dio.me/track/formacao-logica-de-programacao)
 
